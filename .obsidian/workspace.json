@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b87db35a0085f5a",
+        "id": "a3835e58cbba8ede",
         "type": "tabs",
         "children": [
           {
-            "id": "50f3848afd3fe4d6",
+            "id": "f654b4cadb0860c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Важные данные.md",
+                "file": "CSS-in-JS/css-in-js.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,7 +41,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f642474b72002199",
+            "id": "50f3848afd3fe4d6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -56,6 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS-in-JS/css-in-js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS-in-JS/css-in-js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS-in-JS/css-in-js.md"
+              }
             }
           },
           {
@@ -165,24 +169,30 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "f642474b72002199",
+  "active": "f654b4cadb0860c4",
   "lastOpenFiles": [
+    "CSS-in-JS/Сделано.md",
+    "CSS-in-JS/Нужно сделать.md",
+    "CSS-in-JS/css-in-js.md",
+    "Без названия",
+    "Notion",
+    "CSS-in-JS",
+    "css-in-js.excalidraw.md",
+    "Excalidraw/css-in-js.excalidraw.md",
+    "Программирование.md",
+    "Rust.md",
+    "JavaScript.md",
+    "Основы JSDoc.md",
     "Важные данные.md",
     "Функциональное программирование.md",
-    "Основы JSDoc.md",
-    "Программирование.md",
     "Проекты.md",
-    "JavaScript.md",
     "Запись ко врачу.md",
     "Secret key OpenAI.md",
     "Функции.md",
     "new Set.md",
     "new Map.md",
     "Теги.md",
-    "css-in-js.md",
-    "Notion.md",
-    "Excalidraw/css-in-js.excalidraw.md",
-    "Без названия",
+    "Notion/Notion.md",
     "01.03.Проекты.md",
     "01.01.JSDoc.md",
     "01.00.Програмирование.md",
@@ -192,16 +202,10 @@
     "2210.Функциональное программирование.md",
     "2110.JSDoc.md",
     "0001.Програмирование.md",
-    "003.Запись ко врачу.md",
-    "textgenerator/prompts/default/summarize.md",
-    "textgenerator/prompts/default/simplify.md",
-    "textgenerator/prompts/default/rewrite.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
     "2000.Изучение/2200.Функциональное программирование",
-    "2000.Изучение/2100.JSDoc",
-    "2000.Изучение",
-    "1000.Проекты"
+    "2000.Изучение/2100.JSDoc"
   ]
 }
