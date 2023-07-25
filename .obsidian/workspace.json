@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Важные данные.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +72,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaScript.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,23 +165,23 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "50f3848afd3fe4d6",
+  "active": "f642474b72002199",
   "lastOpenFiles": [
-    "Программирование.md",
-    "JavaScript.md",
-    "Основы JSDoc.md",
+    "Важные данные.md",
     "Функциональное программирование.md",
-    "new Set.md",
-    "new Map.md",
-    "Функции.md",
-    "Теги.md",
+    "Основы JSDoc.md",
+    "Программирование.md",
+    "Проекты.md",
+    "JavaScript.md",
     "Запись ко врачу.md",
     "Secret key OpenAI.md",
+    "Функции.md",
+    "new Set.md",
+    "new Map.md",
+    "Теги.md",
     "css-in-js.md",
-    "Проекты.md",
     "Notion.md",
     "Excalidraw/css-in-js.excalidraw.md",
-    "Важные данные.md",
     "Без названия",
     "01.03.Проекты.md",
     "01.01.JSDoc.md",

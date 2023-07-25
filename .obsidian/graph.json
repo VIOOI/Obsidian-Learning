@@ -5,34 +5,20 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#задумка",
+      "query": "tag:#groups",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "tag:#в_процессе",
+      "query": "",
       "color": {
         "a": 1,
         "rgb": 14069084
-      }
-    },
-    {
-      "query": "tag:#JavaScript",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "tag:#доп_данные",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
       }
     }
   ],
@@ -46,6 +32,6 @@
   "repelStrength": 9.88758029978587,
   "linkStrength": 0.799607423269094,
   "linkDistance": 194,
-  "scale": 0.23184053511101066,
+  "scale": 0.4815664502402684,
   "close": false
 }
