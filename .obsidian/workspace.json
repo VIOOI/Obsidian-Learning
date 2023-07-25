@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекты.md",
+                "file": "Основы JSDoc.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Проекты.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,13 +190,13 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "50f3848afd3fe4d6",
+  "active": "f642474b72002199",
   "lastOpenFiles": [
-    "Notion.md",
-    "Проекты.md",
-    "css-in-js.md",
-    "Excalidraw/css-in-js.excalidraw.md",
     "Основы JSDoc.md",
+    "Excalidraw/css-in-js.excalidraw.md",
+    "css-in-js.md",
+    "Проекты.md",
+    "Notion.md",
     "Функции.md",
     "Теги.md",
     "Программирование.md",
