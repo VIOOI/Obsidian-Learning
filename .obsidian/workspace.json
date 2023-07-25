@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запись ко врачу.md",
+                "file": "Функции.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Запись ко врачу.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +72,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Запись ко врачу.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Запись ко врачу.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JSDoc",
+                "query": "tag:#доп_данные",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,15 +166,17 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "68f68c5414ed321d",
+  "active": "324e68dcd49fc936",
   "lastOpenFiles": [
-    "css-in-js.md",
-    "Excalidraw/css-in-js.excalidraw.md",
+    "Без названия",
+    "Функции.md",
     "Теги.md",
     "Основы JSDoc.md",
-    "Функции.md",
+    "new Map.md",
     "Secret key OpenAI.md",
     "Запись ко врачу.md",
+    "css-in-js.md",
+    "Excalidraw/css-in-js.excalidraw.md",
     "01.03.Проекты.md",
     "01.01.JSDoc.md",
     "Функциональное программирование.md",
@@ -186,7 +184,6 @@
     "00.00.Дополнительные данные.md",
     "Excalidraw",
     "Untitled.loom",
-    "Без названия",
     "2210.Функциональное программирование.md",
     "2110.JSDoc.md",
     "0001.Програмирование.md",
@@ -199,8 +196,6 @@
     "textgenerator/prompts/default/getParagraph.md",
     "textgenerator/prompts/default/getOutline.md",
     "textgenerator/prompts/default/getIdeas.md",
-    "textgenerator/prompts/default/getEmailPos.md",
-    "textgenerator/prompts/default/getEmailNeg.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",

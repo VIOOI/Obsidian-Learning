@@ -1,5 +1,5 @@
 ---
-tags: [IT, JSDoc, JavaScript]
+tags: [JSDoc, JavaScript]
 ---
 Конечно, давайте рассмотрим основы JSDoc для начинающих. 
 
