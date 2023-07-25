@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы JSDoc.md",
+                "file": "css-in-js.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "css-in-js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "css-in-js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "css-in-js.md"
+              }
             }
           },
           {
@@ -190,7 +194,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "f642474b72002199",
+  "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
     "Основы JSDoc.md",
     "Excalidraw/css-in-js.excalidraw.md",

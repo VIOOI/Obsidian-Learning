@@ -7,5 +7,4 @@
 
 ## TODO
 
-> [!warning]- Отделить media запросы 
-> `/utils/writeStyle.ts 33.1`
+> [!warning] Разделить стили на медиа-запросы и другие
