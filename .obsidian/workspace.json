@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS-in-JS/css-in-js.md",
+                "file": "Функциональное программирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS-in-JS/css-in-js.md",
+                "file": "Функциональное программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS-in-JS/css-in-js.md",
+                "file": "Функциональное программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS-in-JS/css-in-js.md"
+                "file": "Функциональное программирование.md"
               }
             }
           },
@@ -149,7 +149,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -171,6 +172,16 @@
   },
   "active": "f654b4cadb0860c4",
   "lastOpenFiles": [
+    "Программирование.md",
+    "Rust.md",
+    "JavaScript.md",
+    "Notion/Notion.md",
+    "Проекты.md",
+    "Важные данные.md",
+    "Основы JSDoc.md",
+    "new Map.md",
+    "new Set.md",
+    "Функциональное программирование.md",
     "CSS-in-JS/Сделано.md",
     "CSS-in-JS/Нужно сделать.md",
     "CSS-in-JS/css-in-js.md",
@@ -179,20 +190,10 @@
     "CSS-in-JS",
     "css-in-js.excalidraw.md",
     "Excalidraw/css-in-js.excalidraw.md",
-    "Программирование.md",
-    "Rust.md",
-    "JavaScript.md",
-    "Основы JSDoc.md",
-    "Важные данные.md",
-    "Функциональное программирование.md",
-    "Проекты.md",
     "Запись ко врачу.md",
     "Secret key OpenAI.md",
     "Функции.md",
-    "new Set.md",
-    "new Map.md",
     "Теги.md",
-    "Notion/Notion.md",
     "01.03.Проекты.md",
     "01.01.JSDoc.md",
     "01.00.Програмирование.md",
