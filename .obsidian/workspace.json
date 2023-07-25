@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68f68c5414ed321d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Функции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8dc678c866f67da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "50f3848afd3fe4d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css-in-js.md",
+                "file": "new Map.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css-in-js.md",
+                "file": "new Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css-in-js.md",
+                "file": "new Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css-in-js.md"
+                "file": "new Map.md"
               }
             }
           },
@@ -197,18 +172,18 @@
   "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
     "Основы JSDoc.md",
-    "Excalidraw/css-in-js.excalidraw.md",
+    "Теги.md",
+    "Функции.md",
+    "new Map.md",
+    "Запись ко врачу.md",
+    "Secret key OpenAI.md",
     "css-in-js.md",
+    "Программирование.md",
     "Проекты.md",
     "Notion.md",
-    "Функции.md",
-    "Теги.md",
-    "Программирование.md",
+    "Excalidraw/css-in-js.excalidraw.md",
     "Важные данные.md",
-    "new Map.md",
     "Без названия",
-    "Secret key OpenAI.md",
-    "Запись ко врачу.md",
     "01.03.Проекты.md",
     "01.01.JSDoc.md",
     "Функциональное программирование.md",
