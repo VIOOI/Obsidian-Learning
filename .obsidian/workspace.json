@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new Map.md",
+                "file": "JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new Map.md",
+                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new Map.md",
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new Map.md"
+                "file": "JavaScript.md"
               }
             }
           },
@@ -171,14 +171,17 @@
   },
   "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
-    "Функции.md",
-    "new Map.md",
+    "Программирование.md",
+    "JavaScript.md",
     "Основы JSDoc.md",
+    "Функциональное программирование.md",
+    "new Set.md",
+    "new Map.md",
+    "Функции.md",
     "Теги.md",
     "Запись ко врачу.md",
     "Secret key OpenAI.md",
     "css-in-js.md",
-    "Программирование.md",
     "Проекты.md",
     "Notion.md",
     "Excalidraw/css-in-js.excalidraw.md",
@@ -186,7 +189,6 @@
     "Без названия",
     "01.03.Проекты.md",
     "01.01.JSDoc.md",
-    "Функциональное программирование.md",
     "01.00.Програмирование.md",
     "00.00.Дополнительные данные.md",
     "Excalidraw",
@@ -198,8 +200,6 @@
     "textgenerator/prompts/default/summarize.md",
     "textgenerator/prompts/default/simplify.md",
     "textgenerator/prompts/default/rewrite.md",
-    "textgenerator/prompts/default/getTitles.md",
-    "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
