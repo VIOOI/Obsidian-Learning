@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы JSDoc.md",
+                "file": "Программирование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50f3848afd3fe4d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проекты.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Проекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Проекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Проекты.md"
+              }
             }
           },
           {
@@ -178,18 +194,21 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "f642474b72002199",
+  "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
-    "Основы JSDoc.md",
-    "Программирование.md",
-    "new Map.md",
-    "Без названия",
-    "Функции.md",
-    "Теги.md",
-    "Secret key OpenAI.md",
-    "Запись ко врачу.md",
+    "Notion.md",
+    "Проекты.md",
     "css-in-js.md",
     "Excalidraw/css-in-js.excalidraw.md",
+    "Основы JSDoc.md",
+    "Функции.md",
+    "Теги.md",
+    "Программирование.md",
+    "Важные данные.md",
+    "new Map.md",
+    "Без названия",
+    "Secret key OpenAI.md",
+    "Запись ко врачу.md",
     "01.03.Проекты.md",
     "01.01.JSDoc.md",
     "Функциональное программирование.md",
@@ -206,9 +225,6 @@
     "textgenerator/prompts/default/rewrite.md",
     "textgenerator/prompts/default/getTitles.md",
     "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/getParagraph.md",
-    "textgenerator/prompts/default/getOutline.md",
-    "textgenerator/prompts/default/getIdeas.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",

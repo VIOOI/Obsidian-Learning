@@ -5,23 +5,8 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#JavaScript",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#доп_данные",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -2,
@@ -33,5 +18,5 @@
   "linkStrength": 0.438363490507175,
   "linkDistance": 251,
   "scale": 0.23184053511101066,
-  "close": false
+  "close": true
 }

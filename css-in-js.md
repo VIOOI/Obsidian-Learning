@@ -1,4 +1,6 @@
+> [!info]- Ссылки
+> [[css-in-js.excalidraw]]
 ## TODO
-- [ ] Отделить media запросы 
-	> `/utils/writeStyle.ts 33.1`
-- [ ] 
+
+> [!warning]- Отделить media запросы 
+> `/utils/writeStyle.ts 33.1`
