@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "fe7c26f9986544d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b87db35a0085f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68f68c5414ed321d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Запись ко врачу.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b675c2830b4e4cf1",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 243.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "934031911d018103",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a1667c08d951996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f642474b72002199",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "e4b10c9e48a14a3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Запись ко врачу.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5e58b03c4a58e02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Запись ко врачу.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3a887bba44f4b09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "184831dc2abe68bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Запись ко врачу.md"
+              }
+            }
+          },
+          {
+            "id": "c24b609d0f682a36",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "680655ca1adfb870",
+            "type": "leaf",
+            "state": {
+              "type": "metatable-sidebar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "324e68dcd49fc936",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a62ddac064e48f85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#JSDoc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "326a47cc05e2c57f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 878.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-metatable:Metatable": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create new loom": false
+    }
+  },
+  "active": "68f68c5414ed321d",
+  "lastOpenFiles": [
+    "css-in-js.md",
+    "Excalidraw/css-in-js.excalidraw.md",
+    "Теги.md",
+    "Основы JSDoc.md",
+    "Функции.md",
+    "Secret key OpenAI.md",
+    "Запись ко врачу.md",
+    "01.03.Проекты.md",
+    "01.01.JSDoc.md",
+    "Функциональное программирование.md",
+    "01.00.Програмирование.md",
+    "00.00.Дополнительные данные.md",
+    "Excalidraw",
+    "Untitled.loom",
+    "Без названия",
+    "2210.Функциональное программирование.md",
+    "2110.JSDoc.md",
+    "0001.Програмирование.md",
+    "003.Запись ко врачу.md",
+    "textgenerator/prompts/default/summarize.md",
+    "textgenerator/prompts/default/simplify.md",
+    "textgenerator/prompts/default/rewrite.md",
+    "textgenerator/prompts/default/getTitles.md",
+    "textgenerator/prompts/default/getTags.md",
+    "textgenerator/prompts/default/getParagraph.md",
+    "textgenerator/prompts/default/getOutline.md",
+    "textgenerator/prompts/default/getIdeas.md",
+    "textgenerator/prompts/default/getEmailPos.md",
+    "textgenerator/prompts/default/getEmailNeg.md",
+    "textgenerator/prompts/default",
+    "textgenerator/prompts",
+    "textgenerator",
+    "2000.Изучение/2200.Функциональное программирование",
+    "2000.Изучение/2100.JSDoc",
+    "2000.Изучение",
+    "1000.Проекты"
+  ]
+}

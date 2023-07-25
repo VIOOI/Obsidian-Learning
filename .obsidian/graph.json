@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#JavaScript",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#доп_данные",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.62578515346181,
+  "lineSizeMultiplier": 2.51109029264811,
+  "collapse-forces": false,
+  "centerStrength": 0.295592433975732,
+  "repelStrength": 10.3039486585257,
+  "linkStrength": 0.438363490507175,
+  "linkDistance": 251,
+  "scale": 0.23184053511101066,
+  "close": false
+}
