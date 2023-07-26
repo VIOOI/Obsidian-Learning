@@ -67,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/цепочка стилизации.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/цепочка стилизации.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/цепочка стилизации.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,8 +176,9 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "43b710a426bc5ae0",
+  "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
+    "Excalidraw/цепочка стилизации.excalidraw.md",
     "CSS-in-JS/css-in-js.md",
     "Notion/Notion.md",
     "CSSOM.md",
@@ -192,7 +189,6 @@
     "Функциональное программирование.md",
     "Программирование.md",
     "Rust.md",
-    "Excalidraw/цепочка стилизации.excalidraw.md",
     "Excalidraw",
     "Secret key OpenAI.md",
     "Запись ко врачу.md",
