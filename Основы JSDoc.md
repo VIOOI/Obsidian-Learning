@@ -1,5 +1,5 @@
 ---
-tags: [JSDoc, JavaScript, groups]
+tags: [groups]
 ---
 
 > [!info]- Ссылки

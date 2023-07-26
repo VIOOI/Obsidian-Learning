@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS-in-JS/Нужно сделать.md",
+                "file": "Notion/Notion.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#доп_данные",
+                "query": "tag:#groups",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,19 +167,22 @@
   },
   "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
-    "CSS-in-JS/Нужно сделать.md",
+    "Notion/Notion.md",
     "CSS-in-JS/css-in-js.md",
+    "new Set.md",
+    "new Map.md",
+    "Функции.md",
+    "Теги.md",
+    "Основы JSDoc.md",
+    "JavaScript.md",
+    "CSSOM.md",
+    "CSS-in-JS/Нужно сделать.md",
     "Rust.md",
     "CSS-in-JS/Сделано.md",
-    "JavaScript.md",
     "Программирование.md",
     "Функциональное программирование.md",
-    "Основы JSDoc.md",
     "Важные данные.md",
     "Проекты.md",
-    "Notion/Notion.md",
-    "new Map.md",
-    "new Set.md",
     "Без названия",
     "Notion",
     "CSS-in-JS",
@@ -187,8 +190,6 @@
     "Excalidraw/css-in-js.excalidraw.md",
     "Запись ко врачу.md",
     "Secret key OpenAI.md",
-    "Функции.md",
-    "Теги.md",
     "01.03.Проекты.md",
     "01.01.JSDoc.md",
     "01.00.Програмирование.md",
@@ -197,7 +198,6 @@
     "Untitled.loom",
     "2210.Функциональное программирование.md",
     "2110.JSDoc.md",
-    "0001.Програмирование.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",

@@ -1,5 +1,5 @@
 ---
-tags: [ JavaScript ]
+tags: []
 ---
 ## Кратко
 
