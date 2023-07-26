@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Функциональное программирование.md",
+                "file": "JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Функциональное программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +72,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Функциональное программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Функциональное программирование.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,18 +165,18 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "f654b4cadb0860c4",
+  "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
-    "Программирование.md",
-    "Rust.md",
     "JavaScript.md",
-    "Notion/Notion.md",
-    "Проекты.md",
-    "Важные данные.md",
+    "Rust.md",
+    "Программирование.md",
+    "Функциональное программирование.md",
     "Основы JSDoc.md",
+    "Важные данные.md",
+    "Проекты.md",
+    "Notion/Notion.md",
     "new Map.md",
     "new Set.md",
-    "Функциональное программирование.md",
     "CSS-in-JS/Сделано.md",
     "CSS-in-JS/Нужно сделать.md",
     "CSS-in-JS/css-in-js.md",
