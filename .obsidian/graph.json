@@ -1,28 +1,35 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#groups",
+      "query": "tag:#folder",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "",
+      "query": "file:.excalidraw",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 6074838
+      }
+    },
+    {
+      "query": "tag:#project",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1.55583511777302,

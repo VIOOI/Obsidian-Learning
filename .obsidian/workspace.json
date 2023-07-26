@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Notion.md",
+                "file": "CSS-in-JS/css-in-js.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "43b710a426bc5ae0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/цепочка стилизации.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/цепочка стилизации.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/цепочка стилизации.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/цепочка стилизации.excalidraw.md"
+              }
             }
           },
           {
@@ -128,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#groups",
+                "query": "tag:#доп_данные",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,39 +180,39 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "50f3848afd3fe4d6",
+  "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
-    "Notion/Notion.md",
     "CSS-in-JS/css-in-js.md",
+    "Notion/Notion.md",
+    "CSSOM.md",
+    "Проекты.md",
+    "Важные данные.md",
+    "Основы JSDoc.md",
+    "JavaScript.md",
+    "Функциональное программирование.md",
+    "Программирование.md",
+    "Rust.md",
+    "Excalidraw/цепочка стилизации.excalidraw.md",
+    "Excalidraw",
+    "Secret key OpenAI.md",
+    "Запись ко врачу.md",
     "new Set.md",
     "new Map.md",
     "Функции.md",
     "Теги.md",
-    "Основы JSDoc.md",
-    "JavaScript.md",
-    "CSSOM.md",
     "CSS-in-JS/Нужно сделать.md",
-    "Rust.md",
     "CSS-in-JS/Сделано.md",
-    "Программирование.md",
-    "Функциональное программирование.md",
-    "Важные данные.md",
-    "Проекты.md",
     "Без названия",
     "Notion",
     "CSS-in-JS",
     "css-in-js.excalidraw.md",
     "Excalidraw/css-in-js.excalidraw.md",
-    "Запись ко врачу.md",
-    "Secret key OpenAI.md",
     "01.03.Проекты.md",
     "01.01.JSDoc.md",
     "01.00.Програмирование.md",
     "00.00.Дополнительные данные.md",
-    "Excalidraw",
     "Untitled.loom",
     "2210.Функциональное программирование.md",
-    "2110.JSDoc.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",

@@ -1,5 +1,5 @@
 ---
-tags: "доп_данные"
+tags: []
 ---
 ## Secret key OpenAI
 | Api key                                             | Name     |

@@ -1,3 +1,3 @@
 ---
-tags: [groups]
+tags: [folder]
 ---
