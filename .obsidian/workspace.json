@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript.md",
+                "file": "CSS-in-JS/Нужно сделать.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS-in-JS/Нужно сделать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS-in-JS/Нужно сделать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS-in-JS/Нужно сделать.md"
+              }
             }
           },
           {
@@ -165,7 +169,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "50f3848afd3fe4d6",
+  "active": "f654b4cadb0860c4",
   "lastOpenFiles": [
     "JavaScript.md",
     "Rust.md",
