@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret key OpenAI.md",
+                "file": "Запись ко врачу.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret key OpenAI.md",
+                "file": "Запись ко врачу.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret key OpenAI.md",
+                "file": "Запись ко врачу.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret key OpenAI.md"
+                "file": "Запись ко врачу.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
+    "Secret key OpenAI.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
     "CSS-in-JS/css-in-js.md",
     "Notion/Notion.md",
@@ -196,7 +197,6 @@
     "Программирование.md",
     "Rust.md",
     "Excalidraw",
-    "Secret key OpenAI.md",
     "Запись ко врачу.md",
     "new Set.md",
     "new Map.md",
