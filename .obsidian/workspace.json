@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Функции.md",
+                "file": "JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavaScript.md"
+              }
             }
           },
           {
@@ -178,13 +182,14 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "50f3848afd3fe4d6",
+  "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
+    "Функциональное программирование.md",
+    "JavaScript.md",
     "Функции.md",
     "new Set.md",
     "Программирование.md",
     "Основы JSDoc.md",
-    "JavaScript.md",
     "CSSOM.md",
     "Запись ко врачу.md",
     "Secret key OpenAI.md",
@@ -193,7 +198,6 @@
     "Notion/Notion.md",
     "Проекты.md",
     "Важные данные.md",
-    "Функциональное программирование.md",
     "Rust.md",
     "Excalidraw",
     "new Map.md",
