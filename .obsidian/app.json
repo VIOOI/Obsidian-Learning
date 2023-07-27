@@ -2,7 +2,9 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "vimMode": false,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "tabSize": 2,
-  "livePreview": true
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true
 }
