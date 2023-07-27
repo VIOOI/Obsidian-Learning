@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование.md",
+                "file": "Функции.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Программирование.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,25 +178,25 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "43b710a426bc5ae0",
+  "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
-    "JavaScript.md",
-    "Запись ко врачу.md",
+    "Функции.md",
+    "new Set.md",
     "Программирование.md",
+    "Основы JSDoc.md",
+    "JavaScript.md",
+    "CSSOM.md",
+    "Запись ко врачу.md",
     "Secret key OpenAI.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
     "CSS-in-JS/css-in-js.md",
     "Notion/Notion.md",
-    "CSSOM.md",
     "Проекты.md",
     "Важные данные.md",
-    "Основы JSDoc.md",
     "Функциональное программирование.md",
     "Rust.md",
     "Excalidraw",
-    "new Set.md",
     "new Map.md",
-    "Функции.md",
     "Теги.md",
     "CSS-in-JS/Нужно сделать.md",
     "CSS-in-JS/Сделано.md",
