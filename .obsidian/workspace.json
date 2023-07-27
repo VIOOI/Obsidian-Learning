@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запись ко врачу.md",
+                "file": "Программирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Запись ко врачу.md",
+                "file": "Программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Запись ко врачу.md",
+                "file": "Программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Запись ко врачу.md"
+                "file": "Программирование.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
-    "Программирование.md",
+    "JavaScript.md",
     "Запись ко врачу.md",
+    "Программирование.md",
     "Secret key OpenAI.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
     "CSS-in-JS/css-in-js.md",
@@ -194,7 +195,6 @@
     "Проекты.md",
     "Важные данные.md",
     "Основы JSDoc.md",
-    "JavaScript.md",
     "Функциональное программирование.md",
     "Rust.md",
     "Excalidraw",
