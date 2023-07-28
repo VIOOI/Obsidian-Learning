@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сериализация медиа-запросов.md",
+                "file": "Сериализация значений функций мультимедиа.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сериализация медиа-запросов.md",
+                "file": "Сериализация значений функций мультимедиа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сериализация медиа-запросов.md",
+                "file": "Сериализация значений функций мультимедиа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сериализация медиа-запросов.md"
+                "file": "Сериализация значений функций мультимедиа.md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
+    "Сериализация значений функций мультимедиа.md",
+    "Медиа-запросы.md",
+    "Сериализация медиа-запросов.md",
     "Разбор медиазапросов.md",
     "Функциональное программирование.md",
     "JavaScript/JSDoc",
@@ -178,8 +181,6 @@
     "JavaScript",
     "Функциональное программирование",
     "Rust",
-    "Сериализация медиа-запросов.md",
-    "Медиа-запросы.md",
     "Программирование.md",
     "JavaScript.md",
     "CSSOM.md",
