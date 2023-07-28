@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Распространенные идиомы сериализации.md",
+                "file": "CSSOM/CSSOM.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Распространенные идиомы сериализации.md",
+                "file": "CSSOM/CSSOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Распространенные идиомы сериализации.md",
+                "file": "CSSOM/CSSOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Распространенные идиомы сериализации.md"
+                "file": "CSSOM/CSSOM.md"
               }
             }
           },
@@ -171,10 +171,11 @@
   },
   "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
-    "Распространенные идиомы сериализации.md",
+    "CSSOM/CSSOMString.md",
+    "CSSOM/CSSOM.md",
+    "CSSOM/Распространенные идиомы сериализации.md",
     "CSS-in-JS/css-in-js.md",
     "CSSOM/Терминология.md",
-    "CSSOM/CSSOM.md",
     "CSSOM",
     "URL.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
@@ -200,7 +201,6 @@
     "css-in-js.excalidraw.md",
     "Excalidraw/css-in-js.excalidraw.md",
     "01.03.Проекты.md",
-    "01.01.JSDoc.md",
     "Untitled.loom",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
