@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSSOM.md",
+                "file": "CSSOM/Терминология.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSSOM.md",
+                "file": "CSSOM/Терминология.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSSOM.md",
+                "file": "CSSOM/Терминология.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSSOM.md"
+                "file": "CSSOM/Терминология.md"
               }
             }
           },
@@ -184,6 +184,10 @@
   },
   "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
+    "CSSOM/CSSOM.md",
+    "CSSOM/Терминология.md",
+    "CSSOM",
+    "URL.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
     "JavaScript.md",
     "Функциональное программирование.md",
@@ -191,7 +195,6 @@
     "new Set.md",
     "Программирование.md",
     "Основы JSDoc.md",
-    "CSSOM.md",
     "Запись ко врачу.md",
     "Secret key OpenAI.md",
     "CSS-in-JS/css-in-js.md",
@@ -204,17 +207,13 @@
     "Теги.md",
     "CSS-in-JS/Нужно сделать.md",
     "CSS-in-JS/Сделано.md",
-    "Без названия",
     "Notion",
     "CSS-in-JS",
     "css-in-js.excalidraw.md",
     "Excalidraw/css-in-js.excalidraw.md",
     "01.03.Проекты.md",
     "01.01.JSDoc.md",
-    "01.00.Програмирование.md",
-    "00.00.Дополнительные данные.md",
     "Untitled.loom",
-    "2210.Функциональное программирование.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
