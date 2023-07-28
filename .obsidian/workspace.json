@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSSOM/Медиа-запросы.md",
+                "file": "CSSOM/Разбор медиазапросов.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSSOM/Медиа-запросы.md",
+                "file": "CSSOM/Разбор медиазапросов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSSOM/Медиа-запросы.md",
+                "file": "CSSOM/Разбор медиазапросов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSSOM/Медиа-запросы.md"
+                "file": "CSSOM/Разбор медиазапросов.md"
               }
             }
           },
@@ -171,20 +171,21 @@
   },
   "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
+    "Программирование.md",
+    "JavaScript.md",
     "CSSOM/CSSOM.md",
-    "CSSOM/Медиа-запросы.md",
-    "CSSOM/CSSOMString.md",
+    "CSSOM/Разбор медиазапросов.md",
     "CSSOM/Распространенные идиомы сериализации.md",
-    "CSS-in-JS/css-in-js.md",
+    "CSSOM/Медиа-запросы.md",
     "CSSOM/Терминология.md",
+    "CSSOM/CSSOMString.md",
+    "CSS-in-JS/css-in-js.md",
     "CSSOM",
     "URL.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
-    "JavaScript.md",
     "Функциональное программирование.md",
     "Функции.md",
     "new Set.md",
-    "Программирование.md",
     "Основы JSDoc.md",
     "Запись ко врачу.md",
     "Secret key OpenAI.md",
@@ -200,7 +201,6 @@
     "Notion",
     "CSS-in-JS",
     "css-in-js.excalidraw.md",
-    "Excalidraw/css-in-js.excalidraw.md",
     "Untitled.loom",
     "textgenerator/prompts/default",
     "textgenerator/prompts",

@@ -7,5 +7,5 @@ tags: [folder]
 > 
 > [[Основы JSDoc]]
 > 
-> [[CSSOM]]
+
 
