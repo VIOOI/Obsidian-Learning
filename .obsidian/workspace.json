@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSSOM/Разбор медиазапросов.md",
+                "file": "Сериализация медиа-запросов.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSSOM/Разбор медиазапросов.md",
+                "file": "Сериализация медиа-запросов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSSOM/Разбор медиазапросов.md",
+                "file": "Сериализация медиа-запросов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSSOM/Разбор медиазапросов.md"
+                "file": "Сериализация медиа-запросов.md"
               }
             }
           },
@@ -153,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 878.5
+    "width": 918.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,21 +171,26 @@
   },
   "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
+    "Разбор медиазапросов.md",
+    "Функциональное программирование.md",
+    "JavaScript/JSDoc",
+    "new Set.md",
+    "JavaScript",
+    "Функциональное программирование",
+    "Rust",
+    "Сериализация медиа-запросов.md",
+    "Медиа-запросы.md",
     "Программирование.md",
     "JavaScript.md",
-    "CSSOM/CSSOM.md",
-    "CSSOM/Разбор медиазапросов.md",
-    "CSSOM/Распространенные идиомы сериализации.md",
-    "CSSOM/Медиа-запросы.md",
-    "CSSOM/Терминология.md",
-    "CSSOM/CSSOMString.md",
+    "CSSOM.md",
+    "Распространенные идиомы сериализации.md",
+    "Терминология.md",
+    "CSSOMString.md",
     "CSS-in-JS/css-in-js.md",
     "CSSOM",
     "URL.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
-    "Функциональное программирование.md",
     "Функции.md",
-    "new Set.md",
     "Основы JSDoc.md",
     "Запись ко врачу.md",
     "Secret key OpenAI.md",
@@ -197,15 +202,9 @@
     "new Map.md",
     "Теги.md",
     "CSS-in-JS/Нужно сделать.md",
-    "CSS-in-JS/Сделано.md",
     "Notion",
     "CSS-in-JS",
-    "css-in-js.excalidraw.md",
     "Untitled.loom",
-    "textgenerator/prompts/default",
-    "textgenerator/prompts",
-    "textgenerator",
-    "2000.Изучение/2200.Функциональное программирование",
-    "2000.Изучение/2100.JSDoc"
+    "textgenerator/prompts/default"
   ]
 }
