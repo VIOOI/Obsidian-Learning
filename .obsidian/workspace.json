@@ -11,11 +11,9 @@
             "id": "43b710a426bc5ae0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Алгоритмы.md",
-                "mode": "source",
-                "source": true
+                "file": "Excalidraw/цепочка стилизации.excalidraw.md"
               }
             }
           }
@@ -56,6 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/цепочка стилизации.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/цепочка стилизации.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/цепочка стилизации.excalidraw.md"
+              }
             }
           },
           {
@@ -165,12 +167,16 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "50f3848afd3fe4d6",
+  "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
+    "Сложность алгоритма.md",
+    "Проекты.md",
+    "css-in-js.md",
+    "CSS-in-JS/Нужно сделать.md",
+    "CSS-in-JS/css-in-js.md",
     "Алгоритмы.md",
     "Программирование.md",
     "CSS-in-JS/видео.md",
-    "CSS-in-JS/css-in-js.md",
     "Важные данные.md",
     "Функциональное программирование.md",
     "Основы JSDoc.md",
@@ -194,10 +200,6 @@
     "CSSOM",
     "URL.md",
     "Функции.md",
-    "Запись ко врачу.md",
-    "Secret key OpenAI.md",
-    "Notion/Notion.md",
-    "Проекты.md",
     "Excalidraw",
     "Notion",
     "CSS-in-JS",
