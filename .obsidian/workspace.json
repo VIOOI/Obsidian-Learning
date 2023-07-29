@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сериализация значений функций мультимедиа.md",
+                "file": "Программирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сериализация значений функций мультимедиа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +72,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сериализация значений функций мультимедиа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Сериализация значений функций мультимедиа.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,19 +165,19 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "43b710a426bc5ae0",
+  "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
-    "Сериализация значений функций мультимедиа.md",
-    "Медиа-запросы.md",
-    "Сериализация медиа-запросов.md",
+    "Программирование.md",
     "Разбор медиазапросов.md",
+    "Медиа-запросы.md",
+    "Сериализация значений функций мультимедиа.md",
+    "Сериализация медиа-запросов.md",
     "Функциональное программирование.md",
     "JavaScript/JSDoc",
     "new Set.md",
     "JavaScript",
     "Функциональное программирование",
     "Rust",
-    "Программирование.md",
     "JavaScript.md",
     "CSSOM.md",
     "Распространенные идиомы сериализации.md",
