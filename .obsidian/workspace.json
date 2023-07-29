@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS-in-JS/видео.md",
+                "file": "Алгоритмы.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,6 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Алгоритмы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Алгоритмы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Алгоритмы.md"
+              }
             }
           },
           {
@@ -165,9 +169,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "50f3848afd3fe4d6",
+  "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
     "CSS-in-JS/видео.md",
+    "Алгоритмы.md",
     "CSS-in-JS/css-in-js.md",
     "Важные данные.md",
     "Функциональное программирование.md",
@@ -198,7 +203,6 @@
     "Notion/Notion.md",
     "Проекты.md",
     "Excalidraw",
-    "Теги.md",
     "Notion",
     "CSS-in-JS",
     "Untitled.loom",
