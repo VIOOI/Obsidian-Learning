@@ -1,11 +1,11 @@
 ---
 tags: [folder]
 ---
-> [!info]- Ссылки
-> [[new Map]]
-> [[new Set]]
-> 
-> [[Основы JSDoc]]
-> [[CSSOM]]
+
+[[new Map]]
+[[new Set]]
+
+[[Основы JSDoc]]
+[[CSSOM]]
 
 

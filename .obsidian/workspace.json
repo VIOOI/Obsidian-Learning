@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new Map.md",
+                "file": "Важные данные.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new Map.md",
+                "file": "Важные данные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new Map.md",
+                "file": "Важные данные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new Map.md"
+                "file": "Важные данные.md"
               }
             }
           },
@@ -171,19 +171,22 @@
   },
   "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
+    "Функциональное программирование.md",
+    "Программирование.md",
+    "Основы JSDoc.md",
+    "CSSOM.md",
+    "Rust.md",
+    "JavaScript.md",
+    "new Map.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
     "CSS-in-JS/видео.md",
     "CSS-in-JS/css-in-js.md",
-    "CSSOM.md",
     "Разбор медиазапросов.md",
     "Сериализация медиа-запросов.md",
     "Медиа-запросы.md",
     "Сериализация значений функций мультимедиа.md",
     "CSSOMString.md",
-    "JavaScript.md",
     "Терминология.md",
-    "Программирование.md",
-    "Функциональное программирование.md",
     "JavaScript/JSDoc",
     "new Set.md",
     "JavaScript",
@@ -193,15 +196,12 @@
     "CSSOM",
     "URL.md",
     "Функции.md",
-    "Основы JSDoc.md",
     "Запись ко врачу.md",
     "Secret key OpenAI.md",
     "Notion/Notion.md",
     "Проекты.md",
     "Важные данные.md",
-    "Rust.md",
     "Excalidraw",
-    "new Map.md",
     "Теги.md",
     "Notion",
     "CSS-in-JS",
