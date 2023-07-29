@@ -56,7 +56,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS-in-JS/видео.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +72,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS-in-JS/видео.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSS-in-JS/видео.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,8 +165,9 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "324e68dcd49fc936",
+  "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
+    "CSS-in-JS/видео.md",
     "CSS-in-JS/css-in-js.md",
     "Важные данные.md",
     "Функциональное программирование.md",
@@ -182,7 +178,6 @@
     "JavaScript.md",
     "new Map.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
-    "CSS-in-JS/видео.md",
     "Разбор медиазапросов.md",
     "Сериализация медиа-запросов.md",
     "Медиа-запросы.md",
