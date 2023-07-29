@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Важные данные.md",
+                "file": "CSS-in-JS/видео.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Важные данные.md",
+                "file": "CSS-in-JS/видео.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Важные данные.md",
+                "file": "CSS-in-JS/видео.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Важные данные.md"
+                "file": "CSS-in-JS/видео.md"
               }
             }
           },
@@ -149,7 +149,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -169,8 +170,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "43b710a426bc5ae0",
+  "active": "324e68dcd49fc936",
   "lastOpenFiles": [
+    "CSS-in-JS/css-in-js.md",
+    "Важные данные.md",
     "Функциональное программирование.md",
     "Программирование.md",
     "Основы JSDoc.md",
@@ -180,7 +183,6 @@
     "new Map.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
     "CSS-in-JS/видео.md",
-    "CSS-in-JS/css-in-js.md",
     "Разбор медиазапросов.md",
     "Сериализация медиа-запросов.md",
     "Медиа-запросы.md",
@@ -200,7 +202,6 @@
     "Secret key OpenAI.md",
     "Notion/Notion.md",
     "Проекты.md",
-    "Важные данные.md",
     "Excalidraw",
     "Теги.md",
     "Notion",
