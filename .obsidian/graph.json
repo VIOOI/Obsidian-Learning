@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#folder",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "file:.excalidraw",
+      "color": {
+        "a": 1,
+        "rgb": 6074838
+      }
+    },
+    {
+      "query": "tag:#project",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.55583511777302,
+  "lineSizeMultiplier": 0.99623483226267,
+  "collapse-forces": false,
+  "centerStrength": 0.275517487508922,
+  "repelStrength": 9.88758029978587,
+  "linkStrength": 0.799607423269094,
+  "linkDistance": 194,
+  "scale": 0.8337294612152709,
+  "close": true
+}

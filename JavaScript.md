@@ -6,6 +6,6 @@ tags: [folder]
 > [[new Set]]
 > 
 > [[Основы JSDoc]]
-> 
+> [[CSSOM]]
 
 
