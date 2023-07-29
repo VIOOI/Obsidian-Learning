@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разбор медиазапросов.md",
+                "file": "CSS-in-JS/видео.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Разбор медиазапросов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +72,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Разбор медиазапросов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Разбор медиазапросов.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,17 +165,19 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "43b710a426bc5ae0",
+  "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
+    "CSS-in-JS/видео.md",
+    "CSS-in-JS/css-in-js.md",
+    "CSSOM.md",
+    "Разбор медиазапросов.md",
+    "Сериализация медиа-запросов.md",
     "Медиа-запросы.md",
     "Сериализация значений функций мультимедиа.md",
-    "Разбор медиазапросов.md",
-    "CSSOM.md",
     "CSSOMString.md",
     "JavaScript.md",
     "Терминология.md",
     "Программирование.md",
-    "Сериализация медиа-запросов.md",
     "Функциональное программирование.md",
     "JavaScript/JSDoc",
     "new Set.md",
@@ -187,7 +185,6 @@
     "Функциональное программирование",
     "Rust",
     "Распространенные идиомы сериализации.md",
-    "CSS-in-JS/css-in-js.md",
     "CSSOM",
     "URL.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
@@ -202,7 +199,6 @@
     "Excalidraw",
     "new Map.md",
     "Теги.md",
-    "CSS-in-JS/Нужно сделать.md",
     "Notion",
     "CSS-in-JS",
     "Untitled.loom",
