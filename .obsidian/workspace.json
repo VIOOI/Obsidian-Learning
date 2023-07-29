@@ -56,7 +56,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алгоритмы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +72,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Алгоритмы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Алгоритмы.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,14 +165,14 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "43b710a426bc5ae0",
+  "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
-    "CSS-in-JS/видео.md",
     "Алгоритмы.md",
+    "Программирование.md",
+    "CSS-in-JS/видео.md",
     "CSS-in-JS/css-in-js.md",
     "Важные данные.md",
     "Функциональное программирование.md",
-    "Программирование.md",
     "Основы JSDoc.md",
     "CSSOM.md",
     "Rust.md",
