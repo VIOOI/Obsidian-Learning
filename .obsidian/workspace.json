@@ -11,11 +11,9 @@
             "id": "43b710a426bc5ae0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Portfolio.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/001.jpg"
               }
             }
           }
@@ -56,6 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/001.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/001.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/001.jpg"
+              }
             }
           },
           {
@@ -165,10 +167,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50f3848afd3fe4d6",
+  "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
-    "assets",
     "Portfolio.md",
+    "assets/001.jpg",
+    "assets",
     "Проекты.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
     "Сложность алгоритма.md",
@@ -201,7 +204,6 @@
     "Excalidraw",
     "Notion",
     "CSS-in-JS",
-    "Untitled.loom",
-    "textgenerator/prompts/default"
+    "Untitled.loom"
   ]
 }
