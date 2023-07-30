@@ -167,6 +167,7 @@
   },
   "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
+    "assets",
     "Portfolio.md",
     "Проекты.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
@@ -197,7 +198,6 @@
     "Rust",
     "Распространенные идиомы сериализации.md",
     "CSSOM",
-    "URL.md",
     "Excalidraw",
     "Notion",
     "CSS-in-JS",
