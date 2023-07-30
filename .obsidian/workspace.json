@@ -11,9 +11,11 @@
             "id": "43b710a426bc5ae0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/цепочка стилизации.excalidraw.md"
+                "file": "Portfolio.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -54,7 +56,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/цепочка стилизации.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -71,7 +72,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/цепочка стилизации.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/цепочка стилизации.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,10 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43b710a426bc5ae0",
+  "active": "50f3848afd3fe4d6",
   "lastOpenFiles": [
-    "Сложность алгоритма.md",
+    "Portfolio.md",
     "Проекты.md",
+    "Excalidraw/цепочка стилизации.excalidraw.md",
+    "Сложность алгоритма.md",
     "css-in-js.md",
     "CSS-in-JS/Нужно сделать.md",
     "CSS-in-JS/css-in-js.md",
@@ -184,7 +184,6 @@
     "Rust.md",
     "JavaScript.md",
     "new Map.md",
-    "Excalidraw/цепочка стилизации.excalidraw.md",
     "Разбор медиазапросов.md",
     "Сериализация медиа-запросов.md",
     "Медиа-запросы.md",
@@ -199,7 +198,6 @@
     "Распространенные идиомы сериализации.md",
     "CSSOM",
     "URL.md",
-    "Функции.md",
     "Excalidraw",
     "Notion",
     "CSS-in-JS",
