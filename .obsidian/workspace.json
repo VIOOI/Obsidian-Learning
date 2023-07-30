@@ -161,10 +161,10 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-metatable:Metatable": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create new loom": false
+      "notion-like-tables:Create new loom": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "43b710a426bc5ae0",
