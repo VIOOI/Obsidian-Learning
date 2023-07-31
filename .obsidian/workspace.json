@@ -11,9 +11,11 @@
             "id": "43b710a426bc5ae0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/001.jpg"
+                "file": "Функциональное программирование.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -54,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/001.jpg",
+                "file": "Функциональное программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -71,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/001.jpg",
+                "file": "Функциональное программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/001.jpg"
+                "file": "Функциональное программирование.md"
               }
             }
           },
@@ -169,23 +171,24 @@
   },
   "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
-    "Portfolio.md",
+    "Алгоритмы.md",
+    "Сложность алгоритма.md",
+    "Реактивное программирование.md",
+    "Rust.md",
+    "Программирование.md",
     "assets/001.jpg",
+    "Portfolio.md",
     "assets",
     "Проекты.md",
     "Excalidraw/цепочка стилизации.excalidraw.md",
-    "Сложность алгоритма.md",
     "css-in-js.md",
     "CSS-in-JS/Нужно сделать.md",
     "CSS-in-JS/css-in-js.md",
-    "Алгоритмы.md",
-    "Программирование.md",
     "CSS-in-JS/видео.md",
     "Важные данные.md",
     "Функциональное программирование.md",
     "Основы JSDoc.md",
     "CSSOM.md",
-    "Rust.md",
     "JavaScript.md",
     "new Map.md",
     "Разбор медиазапросов.md",
