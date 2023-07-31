@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Функциональное программирование.md",
+                "file": "new Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Функциональное программирование.md",
+                "file": "new Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Функциональное программирование.md",
+                "file": "new Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Функциональное программирование.md"
+                "file": "new Set.md"
               }
             }
           },
@@ -171,9 +171,12 @@
   },
   "active": "43b710a426bc5ae0",
   "lastOpenFiles": [
+    "new Map.md",
+    "new Set.md",
+    "Реактивное программирование.md",
+    "Функциональное программирование.md",
     "Алгоритмы.md",
     "Сложность алгоритма.md",
-    "Реактивное программирование.md",
     "Rust.md",
     "Программирование.md",
     "assets/001.jpg",
@@ -186,11 +189,9 @@
     "CSS-in-JS/css-in-js.md",
     "CSS-in-JS/видео.md",
     "Важные данные.md",
-    "Функциональное программирование.md",
     "Основы JSDoc.md",
     "CSSOM.md",
     "JavaScript.md",
-    "new Map.md",
     "Разбор медиазапросов.md",
     "Сериализация медиа-запросов.md",
     "Медиа-запросы.md",
@@ -198,7 +199,6 @@
     "CSSOMString.md",
     "Терминология.md",
     "JavaScript/JSDoc",
-    "new Set.md",
     "JavaScript",
     "Функциональное программирование",
     "Rust",
